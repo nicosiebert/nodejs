@@ -1,1 +1,0 @@
-let id = (a, b=document)=>b.getElementById(a);
